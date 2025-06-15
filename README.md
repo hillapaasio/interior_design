@@ -15,3 +15,5 @@ A 2D interior design application for arranging furniture in customizable room la
   <img src="pictures/demo_screenshot.png" alt="A screenshot of the program">
   <figcaption>A screenshot that shows the main functions</figcaption>
 </figure>
+
+More information about the process including a uml-class-diagram can be found in [Loppudokumentti](Loppudokumentti.pdf).
