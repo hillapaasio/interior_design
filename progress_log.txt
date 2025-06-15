@@ -1,0 +1,19 @@
+Ensimmäinen sprint:
+  Tutustuin scalafx:ään dokumentaation ja A+ tutoriaalin avulla.
+  Loin projektiin rakenteen, jossa logiikka ja gui ovat eri packageissa.
+  Loin myös dummy luokan shape, joka osoittautui turhaksi, joten en lisännyt sitä.
+
+Toinen sprint:
+  Loin gui pohjan, jossa on menuvalikko, päänäkymä ja sivupalkki.
+  Loin luokkarakennetta siirrettäville objekteille.
+  Loin ohjelmaan metodeja jotka piirtävät suorakulmio objektit näkymään
+  Loin metodeja, joilla suorakulmioita voi siirrellä, mutta implementaatiossa on vielä muutettavaa.
+
+Kolmas sprint:
+  Loin toimivan huonekalumenun ja dialogeja huonekalujen lisäämiseen ja tutkimiseen
+  Loin kuvatiedostojen käsittelyn, kuvan avaamisen ja tallentamisen
+  Loin huonekalujen siirtelemisen, siten etteivät ne mene päällekkäin.
+  Loin lamppuja ja mattoja yms.
+  Loin skaalauksen ja help komennon.
+  Loin siistin huonekalumenun.
+  Ikkunan kokoa voi muuttaa ja ohjelma toimii hyvin.
