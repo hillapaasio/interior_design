@@ -6,7 +6,7 @@ A 2D interior design application for arranging furniture in customizable room la
 
 - **2D Floorplan Editor**: Create floorplans and place furniture objects on them.
 - **Object Manipulation**: Resize, rotate, recolor, and move furniture.
-- **Collision Detection**: Prevents objects from overlapping incorrectly using bounding-box logic.
+- **Collision Detection**: Prevents similar objects from overlapping.
 - **Scaling Tool**: Adjust the scale of all objects via percentage input.
 - **File Handling**: Load floorplan images and export the design as image files.
 - **Interactive GUI**: Includes dialogs for object input, scaling, and help. Furniture can be modified via contextual menus.
